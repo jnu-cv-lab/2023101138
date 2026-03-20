@@ -1,0 +1,23 @@
+# 忽略所有虚拟环境文件夹
+.venv*/
+.vscode-server/
+
+# 忽略缓存和临时文件
+__pycache__/
+*.pyc
+.cache/
+*.tmp
+
+# 忽略系统配置文件
+.bash_history
+.bash_logout
+.profile
+.motd_shown
+.python_history
+.sudo_as_admin_successful
+.viminfo
+
+
+
+# 忽略VS Code本地配置
+.vscode/
