@@ -1,0 +1,14 @@
+.venv-basic/
+# Python 虚拟环境
+.venv-basic/
+.venv-dl/
+.venv-ml/
+
+# C++ 编译产物
+cv-demo/main
+main
+main build
+build/
+
+# VS Code 缓存
+.vscode/.cache/
