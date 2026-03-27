@@ -49,4 +49,5 @@ int main() {
          << (int)photo_val[2] << endl;
 
     return 0;
+    
 }
