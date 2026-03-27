@@ -11,4 +11,4 @@ main build
 build/
 
 # VS Code 缓存
-.vscode/.cache/
+.vscode/.cache/.vscode/
