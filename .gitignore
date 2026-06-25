@@ -21,3 +21,21 @@ __pycache__/
 
 # 忽略VS Code本地配置
 .vscode/
+
+cat > .gitignore << EOF
+# 忽略所有视频格式
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 忽略系统缓存文件
+*Zone.Identifier
+.DS_Store
+__pycache__/
+*.pyc
+
+# 忽略模型权重、日志
+*.pth
+*.log
+EOF
